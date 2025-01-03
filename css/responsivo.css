@@ -1,0 +1,31 @@
+@media screen and (max-width:1159px) {
+    .card1 {
+        width: 100%;
+    }
+
+    .card2 {
+        width: 100%;
+    }
+
+    .card3 {
+        width: 100%;
+    }
+
+    .header {
+        padding-top: 150px;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .logo {
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .headline1 {
+        font-size: 35px;
+    }
+}
