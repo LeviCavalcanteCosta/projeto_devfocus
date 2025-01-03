@@ -15,9 +15,21 @@
         padding-top: 150px;
     }
 
+    .barra_menu:hover .menu {
+        display: block;
+    }
+
     .menu {
         display: none;
     }
+
+
+
+    .barra_menu {
+        display: inline;
+    }
+
+
 
     .logo {
         width: 100%;
